@@ -16,11 +16,14 @@
   -Enough for now as and when I find some fact funny about me surely gonna update this 
 
   
-- I strongly believe in this quote
+- I strongly believe in this quote:
+  
   **Promise only what you can deliver then deliver more than you promise**
+
+  
 -  This is SSM signing off
   
-    Hope so You hadn't had your 1 min wasted and found a bit interesting to know me !!!
+    Hope so You hadn't had your 1 min wasted and found a bit interesting to know about me !!!
 
 
 <!---
