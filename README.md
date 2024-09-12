@@ -1,4 +1,4 @@
-- 👋 Hey !!! Everyone My name is ** Shreshta S. Majalikar** a.k.a. **_SSM_**
+- 👋 Hey !!! Everyone My name is **Shreshta S. Majalikar** a.k.a. **_SSM_**
 - 👀 I’m interested in achieving something really triumphant and desire to be really satisfying to myself in what-so-ever I'm building at in future.
 - 🌱 I’m currently pursuing my Bachelor's Degree in Computer Science at KLE Tech , Hubballi (3rd year rn)
 - 💞️ I’m looking to collaborate on ... --> let's see I'll get to it when I really figure it out (my interests !!!🤔)
