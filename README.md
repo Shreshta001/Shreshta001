@@ -1,4 +1,4 @@
-# 👋 Ciao Enthusiasts out there 
+# 👋 Ciao Enthusiasts out there !
 
 ---
 ### My name is **Shreshta S. Majalikar** a.k.a. **_SSM_** 🌟✨
@@ -8,7 +8,8 @@
 ## 👀 Interests
 
 I’m interested in achieving something truly **triumphant** and desire to be **satisfied** in everything I build at in the  future! 🚀💪
-P.s. :here I mean the genuine and true satisfaction the feeling of completeness and being answerable to my own questions ; too much philosophy in one line 😅 na ? -> this is what life actually is!🎢
+
+P.S. :here I mean the genuine and true satisfaction,the feeling of completeness and being answerable to my own questions ; too much philosophy in one line 😅 na ? -> this is what life actually is!🎢
 
 ---
 
@@ -27,13 +28,11 @@ let's see I'll get to it when I really figure it out (my interests !!!🤔)
 
 ## 📫 Reach Me
 
-**LinkedIn** is good to go I suppose!
----
+*LinkedIn* is good to go I suppose!
 Here is my profile: [www.linkedin.com/in/yesyesem](https://www.linkedin.com/in/yesyesem) 💬🔗
----
-
 
 ---
+
 
 ## 😄 Pronouns
 
@@ -43,7 +42,7 @@ Here is my profile: [www.linkedin.com/in/yesyesem](https://www.linkedin.com/in/y
 
 ## ⚡ Fun Facts
 
--  **Passion Mode**: I’m fiercely determined when I set my mind to something. If not, you’ll find me at the *opposite* end of the spectrum! (this is damn true)
+- **Passion Mode**: I’m fiercely determined when I set my mind to something. If not, you’ll find me at the *opposite* end of the spectrum! (this is damn true)
   
 - **Ambivert**: Though many see me as an extrovert, I’m truly an ambivert! Those who know me well witness my outgoing side, while others might perceive the exact opposite. That’s just how I feel! 😅🌈
 
@@ -58,7 +57,6 @@ I strongly believe in this quote:
 
 ---
 This is SSM signing off! 🙋‍♀️💖 
----
 ---
 
 Hope so You hadn't had your (system_time - init_read_time) wasted and found a bit interesting to know about me !! 😁✨
