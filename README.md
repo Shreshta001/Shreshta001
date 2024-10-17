@@ -1,12 +1,14 @@
-# 👋 Hey Everyone! 
+# 👋 Ciao Enthusiasts out there 
 
-My name is **Shreshta S. Majalikar** a.k.a. **_SSM_** 🌟✨
+---
+### My name is **Shreshta S. Majalikar** a.k.a. **_SSM_** 🌟✨
 
 ---
 
 ## 👀 Interests
 
-I’m interested in achieving something truly **triumphant** and desire to be **satisfied** in everything I build for the future! 🚀💪
+I’m interested in achieving something truly **triumphant** and desire to be **satisfied** in everything I build at in the  future! 🚀💪
+P.s. :here I mean the genuine and true satisfaction the feeling of completeness and being answerable to my own questions ; too much philosophy in one line 😅 na ? -> this is what life actually is!🎢
 
 ---
 
@@ -18,37 +20,41 @@ I’m currently pursuing my **Bachelor's Degree in Computer Science** at **KLE T
 
 ## 💞 Collaboration
 
-I’m looking to collaborate on ...  
-let's see what I find interesting when I figure it out! 🤔✨
+I’m looking to collaborate on ...  ✨
+let's see I'll get to it when I really figure it out (my interests !!!🤔)
 
 ---
 
 ## 📫 Reach Me
 
-**LinkedIn** is good to go! Here is my profile: [www.linkedin.com/in/yesyesem](https://www.linkedin.com/in/yesyesem) 💬🔗
+**LinkedIn** is good to go I suppose!
+---
+Here is my profile: [www.linkedin.com/in/yesyesem](https://www.linkedin.com/in/yesyesem) 💬🔗
+---
+
 
 ---
 
 ## 😄 Pronouns
 
-**She/Her** (You can also call me SSM! 😊)
+**She/Her** (SSM is what I would prefer! 😁)
 
 ---
 
 ## ⚡ Fun Facts
 
-- **Passion**: I'm super passionate about things I’m determined to achieve, but if that’s not the case, it’s the opposite! 💖🤷‍♀️
+-  **Passion Mode**: I’m fiercely determined when I set my mind to something. If not, you’ll find me at the *opposite* end of the spectrum! (this is damn true)
   
-- **Ambivert**: Although people think I'm an extrovert, I’m a true _ambivert_! Some see me as a high-level extrovert, while others think otherwise. This is just how I feel! 😅🌈
+- **Ambivert**: Though many see me as an extrovert, I’m truly an ambivert! Those who know me well witness my outgoing side, while others might perceive the exact opposite. That’s just how I feel! 😅🌈
 
-- **Art**: I love sketching Ganapati Bappa 🎨🙏 and I'm eager to master my art skills! 🎉
+- **Art**: I love sketching Ganapati Bappa 🎨🙏 and have a great urge 🎉 to master my art skills! 🖌️
 
 ---
 
 ## 💯 Beliefs
 
 I strongly believe in this quote:  
-**_Promise only what you can deliver, then deliver more than you promise._** 💬✨
+**_Promise only what you can deliver, then deliver more than you promise._** 💬✨ (want to really adapt this 🌟)
 
 ---
 This is SSM signing off! 🙋‍♀️💖 
@@ -59,6 +65,8 @@ Hope so You hadn't had your (system_time - init_read_time) wasted and found a bi
 
 -----
 <!---
-Shreshta001/Shreshta001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shreshta001/Shreshta001 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
