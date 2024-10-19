@@ -1,4 +1,4 @@
-# 👋 Ciao Enthusiasts out there !
+# 👋 Ciao , Enthusiasts out there !
 
 ---
 ### My name is **Shreshta S. Majalikar** a.k.a. **_SSM_** 🌟✨
