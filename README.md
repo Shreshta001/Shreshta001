@@ -83,7 +83,15 @@ Hope so You hadn't had your (system_time - init_read_time) wasted and found a bi
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreshta001&show_icons=true&theme=radical)
+### 🚀 GitHub Stats
+![SSM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreshta001&show_icons=true&theme=radical&hide_title=false)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreshta001&layout=compact&theme=radical)
+
+### 🏆 GitHub Profile Trophy
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Shreshta001&theme=radical)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shreshta001&color=green)
 
