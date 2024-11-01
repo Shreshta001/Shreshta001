@@ -61,6 +61,33 @@ This is SSM signing off! 🙋‍♀️💖
 
 Hope so You hadn't had your (system_time - init_read_time) wasted and found a bit interesting to know about me !! 😁✨
 
+
+
+### 📫 How to reach me:
+- Email: [yesyesem22@gmail.com](mailto:your-email@example.com)
+- Connect with me on:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/yesyesem)
+  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Shreshta001)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/yesyesem/)
+  [![X (Twitter)](https://img.shields.io/badge/X-blue?logo=twitter&logoColor=white)](https://x.com/_yesyesem)
+
+ 
+
+### 💻 Technologies and Languages:
+![C](https://img.shields.io/badge/C-grey?logo=c)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreshta001&show_icons=true&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shreshta001&color=green)
+
+
 -----
 <!---
 Shreshta001/Shreshta001 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
