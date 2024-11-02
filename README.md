@@ -68,7 +68,6 @@ Hope so You hadn't had your (system_time - init_read_time) wasted and found a bi
 - Connect with me on:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/yesyesem)
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Shreshta001)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/yesyesem/)
   [![X (Twitter)](https://img.shields.io/badge/X-blue?logo=twitter&logoColor=white)](https://x.com/_yesyesem)
 
  
