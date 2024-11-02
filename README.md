@@ -66,7 +66,7 @@ Hope so You hadn't had your (system_time - init_read_time) wasted and found a bi
 ### 📫 How to reach me:
 - Email: [yesyesem22@gmail.com](mailto:your-email@example.com)
 - Connect with me on:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/yesyesem)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yesyesem/)
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Shreshta001)
   [![X (Twitter)](https://img.shields.io/badge/X-blue?logo=twitter&logoColor=white)](https://x.com/_yesyesem)
 
